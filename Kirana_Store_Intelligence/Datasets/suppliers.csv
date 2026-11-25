@@ -1,0 +1,21 @@
+﻿Supplier_ID,Supplier_Name,City,Supplier_Rating,Contact_Type
+SUP001,Supplier_01,Mumbai,3.4,Manufacturer
+SUP002,Supplier_02,Pune,4.8,Manufacturer
+SUP003,Supplier_03,Pune,4.1,Wholesaler
+SUP004,Supplier_04,Navi Mumbai,4.6,Manufacturer
+SUP005,Supplier_05,Navi Mumbai,3.6,Wholesaler
+SUP006,Supplier_06,Nashik,3.1,Distributor
+SUP007,Supplier_07,Mumbai,3.9,Manufacturer
+SUP008,Supplier_08,Pune,2.7,Wholesaler
+SUP009,Supplier_09,Thane,4.6,Distributor
+SUP010,Supplier_10,Mumbai,4.1,Wholesaler
+SUP011,Supplier_11,Navi Mumbai,4.4,Manufacturer
+SUP012,Supplier_12,Nashik,3.4,Distributor
+SUP013,Supplier_13,Pune,4.9,Wholesaler
+SUP014,Supplier_14,Pune,4.7,Distributor
+SUP015,Supplier_15,Pune,4.4,Manufacturer
+SUP016,Supplier_16,Pune,3.0,Wholesaler
+SUP017,Supplier_17,Navi Mumbai,3.7,Distributor
+SUP018,Supplier_18,Mumbai,2.6,Distributor
+SUP019,Supplier_19,Nashik,2.9,Wholesaler
+SUP020,Supplier_20,Navi Mumbai,4.2,Manufacturer
